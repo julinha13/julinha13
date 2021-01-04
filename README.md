@@ -15,6 +15,7 @@ I love share my knowledge with others and learn about pretty much anything new. 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
 ![ReactJS](https://img.shields.io/badge/React%20JS-Intermediate-blue)
 ![C/C++](https://img.shields.io/badge/C/C++-Intermediate-blue)
+
 ![NodeJS](https://img.shields.io/badge/NodeJS-Basic-lightgrey)
 
 ![C#](https://img.shields.io/badge/C%23-Learning-blueviolet)

@@ -4,7 +4,7 @@
 </p>
 
 ---
-✨ I'm a Information System's student at UFMG (Brazil) and a software development inter. I worky mainly with front-end but my goal is to became a Software Engineer working with both front-end and back-end.
+✨ I'm a Information System's student at UFMG (Brazil) and a software development intern. I worky mainly with front-end but my goal is to became a Software Engineer working with both front-end and back-end.
 
 I love share my knowledge with others and learn about pretty much anything new. On my free time I like to read, watch movies and spend time with my family and friends. 
   

@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋,
+My name is Júlia. I'm a undergraduate information system student at UFMG and a software development inter at DTI Digital.
 
 <!--
 **julinha13/julinha13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

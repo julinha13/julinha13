@@ -17,7 +17,6 @@ I love share my knowledge with others and learn about pretty much anything new. 
 ![C/C++](https://img.shields.io/badge/C/C++-Intermediate-blue)
 ![NodeJS](https://img.shields.io/badge/NodeJS-Basic-lightgrey)
 
---
 ![C#](https://img.shields.io/badge/C%23-Learning-blueviolet)
 ![Python](https://img.shields.io/badge/Python-Learning-blueviolet)
 

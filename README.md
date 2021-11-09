@@ -4,11 +4,11 @@
 </p>
 
 ---
-✨ I'm a Information System's student at UFMG (Brazil) and a software development intern. I have experience working in a startup as a Full stack developer and I'm always looking to learn more and improve my skills. Make life easier and create tools that can really change the world are what I'm most excited about being a developer.
+✨ I'm a Information System's student at UFMG (Minas Gerais/Brazil) and a senior front-end software engineer at CI&T. I have experience working in a startup as a Full stack developer and I'm always looking to learn more and improve my skills. Make life easier and create tools that can really change the world are what I'm most excited about being a developer.
   
-- 🔭 I’m currently working with ReactJS, Nodejs and React Native ...
+- 🔭 I’m currently working with ReactJS, TypeScript ...
 - 🌱 I’m currently deepening front-end studies ... I'm also studing C#, .Net and some infrastructure concepts ...
-- ⚡ Fun fact: I'm addicted to mystery books ...
+- ⚡ Fun fact: I'm addicted to mystery books/stories ...
 - 💬 Let's talk! I love connecting with different people so if you want to say hi, I'll be more than happy to get to meet you! :)
 - 📫 How to reach me: [ju.amorim13@gmail.com](ju.amorim13@gmail.com) or <a href="https://www.linkedin.com/in/julinha-amorim/">Linkedin</a>
 
@@ -24,11 +24,3 @@ I have working experience or a good academic experience with:
 ![Non-relational DB](https://img.shields.io/badge/-Non--relational%20DB-green)
 ![agile methodologies](https://img.shields.io/badge/agile%20methodologies-green)
 ![C/C++](https://img.shields.io/badge/C/C++-green)
-
-I am currently studing and starting new projects with:
-
-![C#/.Net](https://img.shields.io/badge/C%23%20.Net-blueviolet)
-![Docker](https://img.shields.io/badge/Docker-blueviolet)
-![Python](https://img.shields.io/badge/Python-blueviolet)
-
-... and more!

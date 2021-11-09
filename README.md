@@ -1,26 +1,37 @@
 <h3 align="center"> Hi there 👋! I'm Júlia Amorim</h3>
-<p align="center">
-  • <a href="https://www.linkedin.com/in/julinha-amorim/">Linkedin</a> •
-</p>
 
 ---
-✨ I'm a Information System's student at UFMG (Minas Gerais/Brazil) and a senior front-end software engineer at CI&T. I have experience working in a startup as a Full stack developer and I'm always looking to learn more and improve my skills. Make life easier and create tools that can really change the world are what I'm most excited about being a developer.
+✨ I'm a Information System's undergraduate at UFMG (Minas Gerais/Brazil) and a front-end software engineer at CI&T. I have experience working remotely with a multicultural team using most Agile methodologies such as Scrum and Kanbam.
   
-- 🔭 I’m currently working with ReactJS, TypeScript ...
-- 🌱 I’m currently deepening front-end studies ... I'm also studing C#, .Net and some infrastructure concepts ...
-- ⚡ Fun fact: I'm addicted to mystery books/stories ...
-- 💬 Let's talk! I love connecting with different people so if you want to say hi, I'll be more than happy to get to meet you! :)
-- 📫 How to reach me: [ju.amorim13@gmail.com](ju.amorim13@gmail.com) or <a href="https://www.linkedin.com/in/julinha-amorim/">Linkedin</a>
+- 🔭 I’m currently working with ReactJS and TypeScript...
+- 🌱 I’m currently studing NodeJS, CI/CD and learning to speak french...
+- ⚡ Fun fact about me: I'm addicted to mystery books and I love travel...
+- 📫 You can reach me on : <a href="https://www.linkedin.com/in/julinha-amorim/">Linkedin</a>, [ju.amorim13@gmail.com](ju.amorim13@gmail.com) or <a href="https://www.instagram.com/julinhadev/">Instagram (@julinhadev) </a>.
 
-I have working experience or a good academic experience with:
+<br/>:rocket: &nbsp;Main skills:
+  
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Enzyme](https://img.shields.io/badge/-Enzyme-333333?style=flat&logo=https://asset.jarombek.com/logos/enzyme.png)
+  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+  ![Effector](https://img.shields.io/badge/-Effector-333333?style=flat&logo=effector)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+  ![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios)
+  ![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=storybook)
+  ![MaterialUi](https://img.shields.io/badge/-MaterialUi-333333?style=flat&logo=materialui)
+  ![Formik](https://img.shields.io/badge/-Formik-333333?style=flat&logo=formik)
+  ![Yup](https://img.shields.io/badge/-Yup-333333?style=flat&logo=yup)
+  
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.js)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azuredevOps)
 
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-green)
-![ReactJS](https://img.shields.io/badge/ReactJS-green)
-![NodeJS](https://img.shields.io/badge/NodeJS-green)
-![Wordpress](https://img.shields.io/badge/Wordpress-green)
-![API Rest](https://img.shields.io/badge/API%20Rest-green)
-![Relational DB](https://img.shields.io/badge/Relational%20DB-green)
-![Non-relational DB](https://img.shields.io/badge/-Non--relational%20DB-green)
-![agile methodologies](https://img.shields.io/badge/agile%20methodologies-green)
-![C/C++](https://img.shields.io/badge/C/C++-green)
